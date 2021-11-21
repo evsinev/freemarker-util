@@ -4,7 +4,7 @@
 
     <groupId>com.payneteasy</groupId>
     <artifactId>freemarker-util</artifactId>
-    <version>1.0-5-SNAPSHOT</version>
+    <version>1.0-5</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -18,7 +18,7 @@
         <connection>scm:git:git@github.com:evsinev/freemarker-util.git</connection>
         <developerConnection>scm:git:git@github.com:evsinev/freemarker-util.git</developerConnection>
         <url>https://github.com/evsinev/freemarker-util</url>
-        <tag>HEAD</tag>
+        <tag>freemarker-util-1.0-5</tag>
     </scm>
 
     <distributionManagement>
