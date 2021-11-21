@@ -24,7 +24,7 @@ public class FreemarkerInstance {
         this.template = template;
     }
 
-    public FreemarkerInstance add(String aKey, String aValue) {
+    public FreemarkerInstance add(String aKey, Object aValue) {
         map.put(aKey, aValue);
         return this;
     }
